@@ -58,7 +58,7 @@ Output: PHISHING
 Phishing-Email-Detector/
 ├── phishing_detector.py       # Main CLI tool
 ├── trainmodel.py            # AI/ML models
-├── dataset_loader.py           
+├── dataset_loader.py      # To load dataset     
 ├── explore_dataset.py           
 ├── setup.py             # Setup
 ├── feature_engineering.py         
