@@ -1,0 +1,9 @@
+2025-05-01 20:51:31,455 - __main__ - ERROR - No model files found. Please train a model first.
+2025-05-01 20:57:50,271 - __main__ - INFO - Loaded model: phishing_model_20250501_205729.pkl
+2025-05-01 20:57:50,272 - __main__ - INFO - Model performance: Accuracy=0.7928, F1=0.7918
+2025-05-01 21:02:43,059 - __main__ - INFO - Loaded model: phishing_model_20250501_205729.pkl
+2025-05-01 21:02:43,059 - __main__ - INFO - Model performance: Accuracy=0.7928, F1=0.7918
+2025-05-01 21:03:06,101 - __main__ - INFO - Saved user feedback to feedback\feedback_20250501.csv
+2025-05-01 21:12:21,739 - __main__ - INFO - Loaded model: phishing_model_20250501_205729.pkl
+2025-05-01 21:12:21,739 - __main__ - INFO - Model performance: Accuracy=0.7928, F1=0.7918
+2025-05-01 21:12:45,800 - __main__ - INFO - Saved user feedback to feedback\feedback_20250501.csv
