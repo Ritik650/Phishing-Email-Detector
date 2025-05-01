@@ -34,7 +34,7 @@ The **Phishing Email Detector** is an AI/ML-powered CLI tool designed to classif
 3. **Run the Detector**:
    Use the CLI tool to classify emails:
    ```bash
-   python detector.py
+   python phishing_detector.py
    ```
 
 4. **Input Email Data**:
