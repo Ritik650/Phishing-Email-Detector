@@ -1,4 +1,3 @@
-# setup.py
 import nltk
 import os
 import sys
