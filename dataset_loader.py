@@ -1,10 +1,9 @@
-# dataset_loader.py
 from datasets import load_dataset
 import pandas as pd
 import numpy as np
 import logging
 
-# Configure logging
+
 logger = logging.getLogger(__name__)
 
 def load_phishing_dataset(split_ratio=0.2, random_state=42):
