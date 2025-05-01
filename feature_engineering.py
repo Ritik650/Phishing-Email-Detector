@@ -1,4 +1,3 @@
-# feature_engineering.py
 import re
 import nltk
 from nltk.tokenize import word_tokenize
@@ -6,7 +5,7 @@ from nltk.corpus import stopwords
 from textblob import TextBlob
 import logging
 
-# Configure logging
+
 logger = logging.getLogger(__name__)
 
 # Ensure NLTK resources are downloaded
