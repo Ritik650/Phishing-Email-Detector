@@ -1,4 +1,3 @@
-# phishing_detector.py
 import sys
 import pickle
 import os
@@ -8,10 +7,8 @@ import argparse
 import logging
 import colorama
 from colorama import Fore, Style
-# At the top of phishing_detector.py add:
 from feature_engineering import ensure_nltk_resources
 
-# Make sure NLTK resources are available
 ensure_nltk_resources()
 
 # Configure logging
