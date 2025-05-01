@@ -1,0 +1,213 @@
+2025-05-01 20:50:56,815 - __main__ - INFO - Starting model training...
+2025-05-01 20:51:04,918 - __main__ - INFO - Preprocessing dataset...
+2025-05-01 20:51:04,919 - __main__ - INFO - Processing email 0/14908
+2025-05-01 20:52:03,278 - __main__ - INFO - Starting model training...
+2025-05-01 20:52:09,588 - __main__ - INFO - Preprocessing dataset...
+2025-05-01 20:52:09,591 - __main__ - INFO - Processing email 0/14908
+2025-05-01 20:56:29,161 - __main__ - INFO - Starting model training...
+2025-05-01 20:56:36,587 - __main__ - INFO - Preprocessing dataset...
+2025-05-01 20:56:36,588 - __main__ - INFO - Processing email 0/14908
+2025-05-01 20:56:36,805 - __main__ - INFO - Processing email 100/14908
+2025-05-01 20:56:36,956 - __main__ - INFO - Processing email 200/14908
+2025-05-01 20:56:37,113 - __main__ - INFO - Processing email 300/14908
+2025-05-01 20:56:37,303 - __main__ - INFO - Processing email 400/14908
+2025-05-01 20:56:37,437 - __main__ - INFO - Processing email 500/14908
+2025-05-01 20:56:37,584 - __main__ - INFO - Processing email 600/14908
+2025-05-01 20:56:37,747 - __main__ - INFO - Processing email 700/14908
+2025-05-01 20:56:37,955 - __main__ - INFO - Processing email 800/14908
+2025-05-01 20:56:38,130 - __main__ - INFO - Processing email 900/14908
+2025-05-01 20:56:38,298 - __main__ - INFO - Processing email 1000/14908
+2025-05-01 20:56:38,459 - __main__ - INFO - Processing email 1100/14908
+2025-05-01 20:56:38,612 - __main__ - INFO - Processing email 1200/14908
+2025-05-01 20:56:38,764 - __main__ - INFO - Processing email 1300/14908
+2025-05-01 20:56:38,938 - __main__ - INFO - Processing email 1400/14908
+2025-05-01 20:56:39,108 - __main__ - INFO - Processing email 1500/14908
+2025-05-01 20:56:39,305 - __main__ - INFO - Processing email 1600/14908
+2025-05-01 20:56:39,538 - __main__ - INFO - Processing email 1700/14908
+2025-05-01 20:56:39,701 - __main__ - INFO - Processing email 1800/14908
+2025-05-01 20:56:39,856 - __main__ - INFO - Processing email 1900/14908
+2025-05-01 20:56:40,107 - __main__ - INFO - Processing email 2000/14908
+2025-05-01 20:56:40,370 - __main__ - INFO - Processing email 2100/14908
+2025-05-01 20:56:40,571 - __main__ - INFO - Processing email 2200/14908
+2025-05-01 20:56:40,797 - __main__ - INFO - Processing email 2300/14908
+2025-05-01 20:56:41,011 - __main__ - INFO - Processing email 2400/14908
+2025-05-01 20:56:41,210 - __main__ - INFO - Processing email 2500/14908
+2025-05-01 20:56:41,413 - __main__ - INFO - Processing email 2600/14908
+2025-05-01 20:56:41,656 - __main__ - INFO - Processing email 2700/14908
+2025-05-01 20:56:41,826 - __main__ - INFO - Processing email 2800/14908
+2025-05-01 20:56:42,091 - __main__ - INFO - Processing email 2900/14908
+2025-05-01 20:56:42,275 - __main__ - INFO - Processing email 3000/14908
+2025-05-01 20:56:42,480 - __main__ - INFO - Processing email 3100/14908
+2025-05-01 20:56:42,732 - __main__ - INFO - Processing email 3200/14908
+2025-05-01 20:56:42,910 - __main__ - INFO - Processing email 3300/14908
+2025-05-01 20:56:43,073 - __main__ - INFO - Processing email 3400/14908
+2025-05-01 20:56:43,235 - __main__ - INFO - Processing email 3500/14908
+2025-05-01 20:56:43,452 - __main__ - INFO - Processing email 3600/14908
+2025-05-01 20:56:43,673 - __main__ - INFO - Processing email 3700/14908
+2025-05-01 20:56:43,866 - __main__ - INFO - Processing email 3800/14908
+2025-05-01 20:56:44,045 - __main__ - INFO - Processing email 3900/14908
+2025-05-01 20:56:44,264 - __main__ - INFO - Processing email 4000/14908
+2025-05-01 20:56:44,492 - __main__ - INFO - Processing email 4100/14908
+2025-05-01 20:56:44,688 - __main__ - INFO - Processing email 4200/14908
+2025-05-01 20:56:44,868 - __main__ - INFO - Processing email 4300/14908
+2025-05-01 20:56:45,147 - __main__ - INFO - Processing email 4400/14908
+2025-05-01 20:56:45,426 - __main__ - INFO - Processing email 4500/14908
+2025-05-01 20:56:45,622 - __main__ - INFO - Processing email 4600/14908
+2025-05-01 20:56:45,829 - __main__ - INFO - Processing email 4700/14908
+2025-05-01 20:56:46,058 - __main__ - INFO - Processing email 4800/14908
+2025-05-01 20:56:46,232 - __main__ - INFO - Processing email 4900/14908
+2025-05-01 20:56:46,470 - __main__ - INFO - Processing email 5000/14908
+2025-05-01 20:56:46,705 - __main__ - INFO - Processing email 5100/14908
+2025-05-01 20:56:46,864 - __main__ - INFO - Processing email 5200/14908
+2025-05-01 20:56:47,150 - __main__ - INFO - Processing email 5300/14908
+2025-05-01 20:56:47,462 - __main__ - INFO - Processing email 5400/14908
+2025-05-01 20:56:47,667 - __main__ - INFO - Processing email 5500/14908
+2025-05-01 20:56:47,817 - __main__ - INFO - Processing email 5600/14908
+2025-05-01 20:56:48,001 - __main__ - INFO - Processing email 5700/14908
+2025-05-01 20:56:48,233 - __main__ - INFO - Processing email 5800/14908
+2025-05-01 20:56:48,472 - __main__ - INFO - Processing email 5900/14908
+2025-05-01 20:56:48,687 - __main__ - INFO - Processing email 6000/14908
+2025-05-01 20:56:48,940 - __main__ - INFO - Processing email 6100/14908
+2025-05-01 20:56:49,196 - __main__ - INFO - Processing email 6200/14908
+2025-05-01 20:56:49,419 - __main__ - INFO - Processing email 6300/14908
+2025-05-01 20:56:49,669 - __main__ - INFO - Processing email 6400/14908
+2025-05-01 20:56:49,885 - __main__ - INFO - Processing email 6500/14908
+2025-05-01 20:56:50,123 - __main__ - INFO - Processing email 6600/14908
+2025-05-01 20:56:50,294 - __main__ - INFO - Processing email 6700/14908
+2025-05-01 20:56:50,474 - __main__ - INFO - Processing email 6800/14908
+2025-05-01 20:56:50,697 - __main__ - INFO - Processing email 6900/14908
+2025-05-01 20:56:50,906 - __main__ - INFO - Processing email 7000/14908
+2025-05-01 20:56:51,075 - __main__ - INFO - Processing email 7100/14908
+2025-05-01 20:56:51,281 - __main__ - INFO - Processing email 7200/14908
+2025-05-01 20:56:51,497 - __main__ - INFO - Processing email 7300/14908
+2025-05-01 20:56:51,799 - __main__ - INFO - Processing email 7400/14908
+2025-05-01 20:56:52,068 - __main__ - INFO - Processing email 7500/14908
+2025-05-01 20:56:52,299 - __main__ - INFO - Processing email 7600/14908
+2025-05-01 20:56:52,486 - __main__ - INFO - Processing email 7700/14908
+2025-05-01 20:56:52,747 - __main__ - INFO - Processing email 7800/14908
+2025-05-01 20:56:52,948 - __main__ - INFO - Processing email 7900/14908
+2025-05-01 20:56:53,192 - __main__ - INFO - Processing email 8000/14908
+2025-05-01 20:56:53,406 - __main__ - INFO - Processing email 8100/14908
+2025-05-01 20:56:53,591 - __main__ - INFO - Processing email 8200/14908
+2025-05-01 20:56:53,837 - __main__ - INFO - Processing email 8300/14908
+2025-05-01 20:56:54,048 - __main__ - INFO - Processing email 8400/14908
+2025-05-01 20:56:54,322 - __main__ - INFO - Processing email 8500/14908
+2025-05-01 20:56:54,598 - __main__ - INFO - Processing email 8600/14908
+2025-05-01 20:56:54,778 - __main__ - INFO - Processing email 8700/14908
+2025-05-01 20:56:55,042 - __main__ - INFO - Processing email 8800/14908
+2025-05-01 20:56:55,239 - __main__ - INFO - Processing email 8900/14908
+2025-05-01 20:56:55,467 - __main__ - INFO - Processing email 9000/14908
+2025-05-01 20:56:55,680 - __main__ - INFO - Processing email 9100/14908
+2025-05-01 20:56:55,964 - __main__ - INFO - Processing email 9200/14908
+2025-05-01 20:56:56,167 - __main__ - INFO - Processing email 9300/14908
+2025-05-01 20:56:56,419 - __main__ - INFO - Processing email 9400/14908
+2025-05-01 20:56:56,570 - __main__ - INFO - Processing email 9500/14908
+2025-05-01 20:56:56,870 - __main__ - INFO - Processing email 9600/14908
+2025-05-01 20:56:57,224 - __main__ - INFO - Processing email 9700/14908
+2025-05-01 20:56:57,524 - __main__ - INFO - Processing email 9800/14908
+2025-05-01 20:56:57,806 - __main__ - INFO - Processing email 9900/14908
+2025-05-01 20:56:58,080 - __main__ - INFO - Processing email 10000/14908
+2025-05-01 20:56:58,338 - __main__ - INFO - Processing email 10100/14908
+2025-05-01 20:56:58,627 - __main__ - INFO - Processing email 10200/14908
+2025-05-01 20:56:58,959 - __main__ - INFO - Processing email 10300/14908
+2025-05-01 20:56:59,202 - __main__ - INFO - Processing email 10400/14908
+2025-05-01 20:56:59,461 - __main__ - INFO - Processing email 10500/14908
+2025-05-01 20:56:59,697 - __main__ - INFO - Processing email 10600/14908
+2025-05-01 20:56:59,980 - __main__ - INFO - Processing email 10700/14908
+2025-05-01 20:57:00,199 - __main__ - INFO - Processing email 10800/14908
+2025-05-01 20:57:00,461 - __main__ - INFO - Processing email 10900/14908
+2025-05-01 20:57:00,723 - __main__ - INFO - Processing email 11000/14908
+2025-05-01 20:57:00,990 - __main__ - INFO - Processing email 11100/14908
+2025-05-01 20:57:01,158 - __main__ - INFO - Processing email 11200/14908
+2025-05-01 20:57:01,434 - __main__ - INFO - Processing email 11300/14908
+2025-05-01 20:57:01,696 - __main__ - INFO - Processing email 11400/14908
+2025-05-01 20:57:01,896 - __main__ - INFO - Processing email 11500/14908
+2025-05-01 20:57:02,098 - __main__ - INFO - Processing email 11600/14908
+2025-05-01 20:57:02,266 - __main__ - INFO - Processing email 11700/14908
+2025-05-01 20:57:02,531 - __main__ - INFO - Processing email 11800/14908
+2025-05-01 20:57:02,765 - __main__ - INFO - Processing email 11900/14908
+2025-05-01 20:57:03,016 - __main__ - INFO - Processing email 12000/14908
+2025-05-01 20:57:03,203 - __main__ - INFO - Processing email 12100/14908
+2025-05-01 20:57:03,457 - __main__ - INFO - Processing email 12200/14908
+2025-05-01 20:57:03,901 - __main__ - INFO - Processing email 12300/14908
+2025-05-01 20:57:04,159 - __main__ - INFO - Processing email 12400/14908
+2025-05-01 20:57:04,397 - __main__ - INFO - Processing email 12500/14908
+2025-05-01 20:57:04,669 - __main__ - INFO - Processing email 12600/14908
+2025-05-01 20:57:04,906 - __main__ - INFO - Processing email 12700/14908
+2025-05-01 20:57:05,129 - __main__ - INFO - Processing email 12800/14908
+2025-05-01 20:57:13,587 - __main__ - INFO - Processing email 12900/14908
+2025-05-01 20:57:13,789 - __main__ - INFO - Processing email 13000/14908
+2025-05-01 20:57:14,076 - __main__ - INFO - Processing email 13100/14908
+2025-05-01 20:57:14,325 - __main__ - INFO - Processing email 13200/14908
+2025-05-01 20:57:14,539 - __main__ - INFO - Processing email 13300/14908
+2025-05-01 20:57:14,751 - __main__ - INFO - Processing email 13400/14908
+2025-05-01 20:57:14,929 - __main__ - INFO - Processing email 13500/14908
+2025-05-01 20:57:15,171 - __main__ - INFO - Processing email 13600/14908
+2025-05-01 20:57:15,373 - __main__ - INFO - Processing email 13700/14908
+2025-05-01 20:57:15,588 - __main__ - INFO - Processing email 13800/14908
+2025-05-01 20:57:15,853 - __main__ - INFO - Processing email 13900/14908
+2025-05-01 20:57:16,094 - __main__ - INFO - Processing email 14000/14908
+2025-05-01 20:57:16,413 - __main__ - INFO - Processing email 14100/14908
+2025-05-01 20:57:16,638 - __main__ - INFO - Processing email 14200/14908
+2025-05-01 20:57:16,884 - __main__ - INFO - Processing email 14300/14908
+2025-05-01 20:57:17,136 - __main__ - INFO - Processing email 14400/14908
+2025-05-01 20:57:17,347 - __main__ - INFO - Processing email 14500/14908
+2025-05-01 20:57:17,610 - __main__ - INFO - Processing email 14600/14908
+2025-05-01 20:57:17,879 - __main__ - INFO - Processing email 14700/14908
+2025-05-01 20:57:18,067 - __main__ - INFO - Processing email 14800/14908
+2025-05-01 20:57:18,311 - __main__ - INFO - Processing email 14900/14908
+2025-05-01 20:57:18,404 - __main__ - INFO - Preprocessing dataset...
+2025-05-01 20:57:18,405 - __main__ - INFO - Processing email 0/3726
+2025-05-01 20:57:18,660 - __main__ - INFO - Processing email 100/3726
+2025-05-01 20:57:18,843 - __main__ - INFO - Processing email 200/3726
+2025-05-01 20:57:19,129 - __main__ - INFO - Processing email 300/3726
+2025-05-01 20:57:19,358 - __main__ - INFO - Processing email 400/3726
+2025-05-01 20:57:19,575 - __main__ - INFO - Processing email 500/3726
+2025-05-01 20:57:19,797 - __main__ - INFO - Processing email 600/3726
+2025-05-01 20:57:20,003 - __main__ - INFO - Processing email 700/3726
+2025-05-01 20:57:20,171 - __main__ - INFO - Processing email 800/3726
+2025-05-01 20:57:20,411 - __main__ - INFO - Processing email 900/3726
+2025-05-01 20:57:20,581 - __main__ - INFO - Processing email 1000/3726
+2025-05-01 20:57:20,812 - __main__ - INFO - Processing email 1100/3726
+2025-05-01 20:57:21,053 - __main__ - INFO - Processing email 1200/3726
+2025-05-01 20:57:21,300 - __main__ - INFO - Processing email 1300/3726
+2025-05-01 20:57:21,481 - __main__ - INFO - Processing email 1400/3726
+2025-05-01 20:57:21,701 - __main__ - INFO - Processing email 1500/3726
+2025-05-01 20:57:21,859 - __main__ - INFO - Processing email 1600/3726
+2025-05-01 20:57:22,033 - __main__ - INFO - Processing email 1700/3726
+2025-05-01 20:57:22,196 - __main__ - INFO - Processing email 1800/3726
+2025-05-01 20:57:22,358 - __main__ - INFO - Processing email 1900/3726
+2025-05-01 20:57:22,539 - __main__ - INFO - Processing email 2000/3726
+2025-05-01 20:57:22,785 - __main__ - INFO - Processing email 2100/3726
+2025-05-01 20:57:23,005 - __main__ - INFO - Processing email 2200/3726
+2025-05-01 20:57:23,240 - __main__ - INFO - Processing email 2300/3726
+2025-05-01 20:57:23,551 - __main__ - INFO - Processing email 2400/3726
+2025-05-01 20:57:23,733 - __main__ - INFO - Processing email 2500/3726
+2025-05-01 20:57:23,976 - __main__ - INFO - Processing email 2600/3726
+2025-05-01 20:57:24,305 - __main__ - INFO - Processing email 2700/3726
+2025-05-01 20:57:24,481 - __main__ - INFO - Processing email 2800/3726
+2025-05-01 20:57:24,694 - __main__ - INFO - Processing email 2900/3726
+2025-05-01 20:57:24,997 - __main__ - INFO - Processing email 3000/3726
+2025-05-01 20:57:25,209 - __main__ - INFO - Processing email 3100/3726
+2025-05-01 20:57:25,409 - __main__ - INFO - Processing email 3200/3726
+2025-05-01 20:57:25,556 - __main__ - INFO - Processing email 3300/3726
+2025-05-01 20:57:25,759 - __main__ - INFO - Processing email 3400/3726
+2025-05-01 20:57:25,950 - __main__ - INFO - Processing email 3500/3726
+2025-05-01 20:57:26,167 - __main__ - INFO - Processing email 3600/3726
+2025-05-01 20:57:26,405 - __main__ - INFO - Processing email 3700/3726
+2025-05-01 20:57:26,556 - __main__ - INFO - Training Random Forest classifier...
+2025-05-01 20:57:29,428 - __main__ - INFO - Model performance:
+              precision    recall  f1-score   support
+
+           0       0.81      0.84      0.83      2208
+           1       0.76      0.72      0.74      1518
+
+    accuracy                           0.79      3726
+   macro avg       0.79      0.78      0.78      3726
+weighted avg       0.79      0.79      0.79      3726
+
+2025-05-01 20:57:29,428 - __main__ - INFO - Confusion matrix:
+[[1863  345]
+ [ 427 1091]]
+2025-05-01 20:57:29,478 - __main__ - INFO - Model saved to models\phishing_model_20250501_205729.pkl
+2025-05-01 20:57:29,480 - __main__ - INFO - Feature extractor saved to models\feature_extractor.pkl
