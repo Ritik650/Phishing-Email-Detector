@@ -2,22 +2,22 @@
 
 The **Phishing Email Detector** is an AI/ML-powered CLI tool designed to classify emails as **PHISHING** or **LEGIT**, addressing critical cybersecurity needs.
 
-## 🚀 Features
+##  Features
 
 - **AI-Powered Detection**: Utilizes machine learning models for accurate email classification.
 - **User-Friendly CLI**: Simple command-line interface for seamless interaction.
 - **Cybersecurity Focused**: Helps protect users by identifying phishing attempts.
 
-## 🧰 Tech Stack
+## Tech Stack
 
-- **Programming Language**: Python 🐍
+- **Programming Language**: Python 
 - **Machine Learning**: Leveraging advanced AI/ML techniques for email analysis. Scikit-learn, NLTK etc.
 - **CLI Tool**: Easy-to-use interface for quick email classification.
 -  **Dataset**: zefang-liu/phishing-email-dataset  (Hugging Face)
 
 
 
-## 📖 How to Use
+##  How to Use
 
 1. **Clone the Repository**:
    ```bash
@@ -31,28 +31,31 @@ The **Phishing Email Detector** is an AI/ML-powered CLI tool designed to classif
    pip install -r requirements.txt
    ```
 
-3. **Run the Detector**:
+3. **Run the Setup**:
+   ```bash
+   python setup.py
+   ```
+4. **Train the Model**:
+   ```bash
+   python train_model.py
+   ```
+
+5. **Run the Detector**:
    Use the CLI tool to classify emails:
    ```bash
    python phishing_detector.py
    ```
 
-4. **Input Email Data**:
+6. **Input Email Data**:
    Follow the prompts to input email content or data for classification.
 
-## 🛠️ Installation Requirements
+## 🛠 Installation Requirements
 
 - Python 3.7 or higher
 - Required Python libraries (see `requirements.txt`)
 
-## 🧪 Example
 
-```text
-Input: [Paste email content here]
-Output: PHISHING
-```
-
-## 📂 Project Structure
+## Project Structure
 
 ```
 Phishing-Email-Detector/
@@ -66,11 +69,11 @@ Phishing-Email-Detector/
 ```
 
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 🌟 Acknowledgments
+##  Acknowledgments
 
 - Inspired by the need for better email security tools.
 - Special thanks to the open-source community!
